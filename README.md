@@ -20,3 +20,5 @@
 3. No repositório do back end, você pode deletar o banco de dados e após ativar o servidor novamente com o comando "npm run dev", o banco de dados será criado novamente, mas você também precisará usar o comando "npm run migrate" " para criar as migrações (outras tabelas criadas com este método) que utiliza knex.
 
 4. Na própria interface é possível criar um usuário que administra toda a aplicação, mas já existe uma conta criada para ser utilizada (email: mateus@email.com | senha: 123456)
+
+### Link da parte back-end: https://github.com/mateusrc-dev/sistema-escolar-back-end
